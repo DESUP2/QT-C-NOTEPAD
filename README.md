@@ -1,1 +1,1 @@
-A notepad built using QT 5.15 WIDGET UI with clang GCC
+C++ GTK4 graphical notepad
